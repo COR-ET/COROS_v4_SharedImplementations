@@ -1,2 +1,3 @@
 # COROS_v4_SharedImplementations
-From title you get it.
+
+These shared source codes are parts of the COROS-v4 implementations and can be used for any purposes, since it solves most CosmosOS-Gen3 issues.
